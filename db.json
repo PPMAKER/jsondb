@@ -1,49 +1,48 @@
 {
-"alunos": [
+"elementos": [
    {
-      "nome":"Ana",
-      "ano_nascimento":1984,
-      "notas":{
-         "n1":7,
-         "n2":5,
-         "n3":4
-      }
+      "elemento":"OURO"
    },
    {
-      "nome":"Pedro",
-      "ano_nascimento":2001,
-      "notas":{
-         "n1":6,
-         "n2":6,
-         "n3":5
-      }
+      "elemento":"TECIDO"
    },
    {
-      "nome":"Paulo",
-      "ano_nascimento":1999,
-      "notas":{
-         "n1":9,
-         "n2":6,
-         "n3":3
-      }
+      "elemento":"AÇO"
    },
    {
-      "nome":"Carlos",
-      "ano_nascimento":2005,
-      "notas":{
-         "n1":10,
-         "n2":10,
-         "n3":10
-      }
+      "elemento":"MADEIRA"
+   }
+],
+"numeros": [
+   {
+      "num":1
    },
    {
-      "nome":"Eduardo",
-      "ano_nascimento":2000,
-      "notas":{
-         "n1":3,
-         "n2":5,
-         "n3":4
-      }
+      "num":2
+   },
+   {
+      "num":3
+   },
+   {
+      "num":4
+   },
+   {
+      "num":5
+   },
+   {
+      "num":6
+   },
+   {
+      "num":7
+   },
+   {
+      "num":8
+   },
+   {
+      "num":9
+   },
+   {
+      "num":10
    }
 ]
 }
